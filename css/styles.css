@@ -1,6 +1,7 @@
 body {
   font-family: "roboto", sans-serif;
   color: #434455;
+  background-color: #fff;
 }
 ul {
   list-style: none;
@@ -51,7 +52,7 @@ a {
 }
 .header-menu-link:hover,
 .header-menu-link:focus {
-  color: #4d5ae5;
+  color: #404bbf;
 }
 
 .header-contacts {
@@ -69,7 +70,7 @@ a {
 }
 .header-contacts-link:hover,
 .header-contacts-link:focus {
-  color: #4d5ae5;
+  color: #404bbf;
 }
 
 /*----------------HERO-SECTION------------------*/
@@ -94,8 +95,8 @@ a {
   background-color: #4d5ae5;
 }
 .hero-btn:hover,
-hero-btn:focus {
-  background-color: #1523b6;
+.hero-btn:focus {
+  background-color: #404bbf;
 }
 
 /*----------------FEATURES-SECTION------------------*/
