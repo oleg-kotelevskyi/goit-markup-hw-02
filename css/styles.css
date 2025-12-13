@@ -5,6 +5,9 @@ body {
 ul {
   list-style: none;
 }
+a {
+  text-decoration: none;
+}
 
 /*----------------HEADER-SECTION------------------*/
 
@@ -138,12 +141,14 @@ hero-btn:focus {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  text-align: center;
   color: #2e2f42;
 }
 .team-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  text-align: center;
 }
 
 /*----------------PORTOFOLIO_SECTION------------------*/
